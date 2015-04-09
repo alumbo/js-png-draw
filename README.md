@@ -3,4 +3,4 @@ js-png-draw
 
 Javascript PNG draw
 
-Fork from <a href="https://github.com/wheany/js-png-encoder">js-png-encoder</a>
+Based and forked from <a href="https://github.com/wheany/js-png-encoder" target="_blank">js-png-encoder</a>
